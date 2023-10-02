@@ -48,8 +48,6 @@ Characteristics of Big Data (6Vs)
 
 #### Data analytics
 
-![Screenshot 2023-02-08 at 10.20.29 PM](/Users/yilingluo/Library/CloudStorage/OneDrive-HKUSTConnect/SCHOOL/INCLASS/hkust msba/22-23spring-1/ISOM5330_FinTech/summary/Screenshot 2023-02-08 at 10.20.29 PM.png)
-
 
 
 ### EDI (Electronic Data Interchange) 
@@ -116,13 +114,9 @@ Decentralized finance (DeFi) is an emerging financial technology based on secure
 
 ### Web 1.0 - 3.0
 
-![](/Users/yilingluo/Library/CloudStorage/OneDrive-HKUSTConnect/SCHOOL/INCLASS/hkust msba/22-23spring-1/ISOM5330_FinTech/summary/Screenshot 2023-03-01 at 3.35.12 PM.png)
-
-
 
 ### Metaberse
 
-![](/Users/yilingluo/Library/CloudStorage/OneDrive-HKUSTConnect/SCHOOL/INCLASS/hkust msba/22-23spring-1/ISOM5330_FinTech/summary/Screenshot 2023-03-01 at 3.40.00 PM.png)
 
 
 
@@ -200,9 +194,6 @@ Bitcoin is per se not regulated by any of the financial regulatory bodies, such 
 
 not backed by any physical items, issuers or the real economy, so it has no fixed value
 
-![](/Users/yilingluo/Library/CloudStorage/OneDrive-HKUSTConnect/SCHOOL/INCLASS/hkust msba/22-23spring-1/ISOM5330_FinTech/summary/Screenshot 2023-03-01 at 4.39.11 PM.png)
-
-
 
 ### Internet of Value (IoV) (Internet of Assets)
 
@@ -276,7 +267,7 @@ If participants in that process are preselected, the ledger is **permissioned**.
 
 **Smart contracts**
 
-智能合同是指其条款和条件以计算机语言而不是法律语言记录的合同。它们可以由计算机自动执行。![](/Users/yilingluo/Library/CloudStorage/OneDrive-HKUSTConnect/SCHOOL/INCLASS/hkust msba/22-23spring-1/ISOM5330_FinTech/summary/Screenshot 2023-03-01 at 7.47.02 PM.png)
+智能合同是指其条款和条件以计算机语言而不是法律语言记录的合同。它们可以由计算机自动执行。
 
 
 
@@ -434,7 +425,6 @@ Monetarization 货币化
 
 • DCEP还可以降低维护和回收钞票和硬币的成本。
 
-<img src="/Users/yilingluo/Library/CloudStorage/OneDrive-HKUSTConnect/SCHOOL/INCLASS/hkust msba/22-23spring-1/ISOM5330_FinTech/summary/Screenshot 2023-03-01 at 9.39.44 PM.png" style="zoom:50%;" />
 
 ​		第一点:数字货币不同于支付宝､微信｡不需要绑定账户,不需要网络,却可以像纸币一样流通｡
 
